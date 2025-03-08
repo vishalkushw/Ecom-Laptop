@@ -1,0 +1,51 @@
+#adminHeader
+{
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(179, 73, 46);
+}
+
+
+
+#adminFooter
+{
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(179, 73, 46);
+   
+}
+
+#adminForm
+{
+    display: flex;
+    justify-content: center;
+}
+
+#adminData
+{
+    
+    padding-bottom: 50px;
+}
+
+#namedisplay
+{
+    padding: 10px;
+    background-color: rgb(57, 102, 116);
+    color: rgb(207, 197, 206);
+    text-align: center;
+}
+
+#mainData
+{
+    display: flex;
+}
+#mainLeftMenu
+{
+    width: 20%;
+    padding: 20px;
+}
+#mainRightData
+{
+    width: 80%;
+    padding: 20px;
+}

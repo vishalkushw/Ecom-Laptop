@@ -1,0 +1,710 @@
+
+
+#logo {
+    color: brown;
+    width: 50%;
+    
+  }
+  
+ .mr-auto{
+    margin-left: 60%;
+    color: black;
+    font-size: 20px;
+ }
+
+ .ml-auto{
+    font-size: 20px;
+ }
+
+ #footer {
+    text-align: center;
+    height: 40px;
+    background-color: rgba(59, 52, 52, 0.705);
+    padding: 15px;
+  }
+ 
+  #section05 {
+    width: 100%;
+    height: 350px;
+    margin-top: 60px;
+  }
+  
+  #section05 .test {
+    display: flex;
+    font-size: 25px;
+    letter-spacing: 1px;
+    justify-content: center;
+    color: #222222;
+  }
+  
+  #section05 .icon img {
+    padding-left: 70px;
+    margin-bottom: 20px;
+  
+  }
+  
+  #section05 .icon h1 {
+    padding-left: 30px;
+  }
+  
+  #section05 .icon {
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .section5 {
+    width: 100%;
+    background-color: #ebebeb;
+    color: #666666;
+  }
+  
+  .section5 .footer-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    padding-left: 30px;
+    padding-top: 40px;
+    text-align: center;
+  
+  }
+  
+  .section5 .footer-container .footer-section h2 {
+    color: #222222;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  #adminHeader {
+    width: 100%;
+    padding: 20px;
+    background-color: rgba(108, 209, 223, 0.418);
+    text-align: center;
+  }
+
+  .logout-button {
+    background-color: #4A94A2;
+    color: #fff;
+    border-radius: 5px;
+    height: 30px;
+    font-size: 16px;
+    padding: 0 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .logout-button:hover {
+    background-color: #3e8e41;
+  }
+  
+  
+  
+  
+  
+  #adminFooter {
+    width: 100%;
+    padding: 20px;
+    background-color: rgba(108, 209, 223, 0.418);
+    text-align: centero
+    ;
+  
+  }
+  
+  #adminForm {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #adminData {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+
+  
+
+  #data{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(219, 90, 30);
+    padding: 20px;
+  }
+
+  #datacom{
+
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    margin-bottom: 30px;
+  }  
+
+  .about-page {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .head {
+    background-color: #f7f7f7;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .content {
+    margin-top: 20px;
+  }
+  
+  .team {
+    margin-top: 40px;
+  }
+  
+  .team-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .team-member p {
+
+    align-items: center;
+    margin-top: 15px;
+    padding-left: 15px;
+  }
+  
+  
+  .contact-page {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  button[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  
+  .contact-info {
+    margin-top: 20px;
+  }
+  
+  .contact-info h2 {
+    margin-top: 0;
+  }
+  
+
+
+
+
+
+  #cont{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+  }
+
+  
+
+
+  #adminHeader
+{
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(179, 73, 46);
+}
+
+
+
+#adminFooter
+{
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(179, 73, 46);
+   
+}
+
+#adminForm
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.form-container {
+  width: 500px;
+  margin: auto;
+  background-color: #f0f0f0;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.form-control {
+  width: 100%;
+  height: 40px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button[type="submit"] {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+
+.product-box {
+  width: 250px;
+  height: 350px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-box img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+}
+
+.product-box h2 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.product-box p {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.product-box button {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.product-box button:hover {
+  background-color: #3e8e41;
+}
+
+#adminData
+{
+    
+    padding-bottom: 50px;
+}
+
+#namedisplay
+{
+    padding: 10px;
+    background-color: rgb(58, 138, 78);
+    color: rgb(187, 83, 173);
+    text-align: center;
+}
+
+#mainData
+{
+    display: flex;
+}
+#mainLeftMenu
+{
+    width: 20%;
+    padding: 20px;
+}
+#mainRightData
+{
+    width: 80%;
+    padding: 20px;
+}
+
+#chekout{
+  text-align: center;
+  border: 5px solid rgb(143, 153, 127);
+  width: 35%;
+  margin-left: 30%;
+  margin-top: 15px;
+  margin-bottom: 5%;
+  border-radius: 10px;
+}
+
+#chekout h1{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: rgb(192, 88, 111);
+  background-color: rgb(143, 153, 127);
+
+}
+
+#chekout h2{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: hwb(327 35% 25%);
+
+}
+
+#chekout h4{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: rgb(192, 88, 111);
+}
+
+
+#chekout Button{
+ 
+  width: 20%;
+  
+  margin-bottom: 20px;
+}
+
+
+#adminHeader {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  
+}
+
+#adminHeader h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+#adminData {
+  padding: 20px;
+  background-color: #71b9c5;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  width: 100%;
+  margin-top: 3%;
+  /* margin-left: 25%; */
+}
+
+#adminFooter {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  border-top: 1px solid #ddd;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+#adminFooter a {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+
+#namedisplay {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+#mainData {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+#mainLeftMenu {
+  width: 20%;
+  background-color: #f0f0f0;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+#mainLeftMenu a {
+  text-decoration: none;
+  color: #333;
+  padding: 10px;
+  display: block;
+  border-bottom: 1px solid #ddd;
+}
+
+#mainLeftMenu a:hover {
+  background-color: #ccc;
+}
+
+#mainRightData {
+  width: 80%;
+  padding: 20px;
+}
+
+.outlet {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+
+
+
+/* Tablet version */
+@media (min-width: 768px) and (max-width: 1023px) {
+  #logo {
+    color: brown;
+    width: 40%;
+  }
+  .navbar-collapse{
+    background-color: rgb(91, 121, 121);
+    
+  }
+
+  .mr-auto {
+    margin-left: 50%;
+    color:white;
+    font-size: 18px;
+
+  }
+  .nav-link{
+    color: #ebebeb;
+  }
+  .ml-auto {
+    font-size: 18px;
+    margin-left: 50%;
+  }
+
+
+#datacom {
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  text-align: center; 
+}
+
+#search input{
+  width: 40%;
+}
+  #footer {
+    text-align: center;
+    height: 30px;
+    background-color: rgba(59, 52, 52, 0.705);
+    padding: 10px;
+  }
+  #section05 {
+    width: 100%;
+    height: 300px;
+    margin-top: 40px;
+  }
+  #section05 .test {
+    display: flex;
+
+  }
+
+  #adminHeader {
+    padding: 15px;
+  }
+  #adminHeader h1 {
+    font-size: 20px;
+  }
+  #adminData {
+    padding: 15px;
+  }
+  #adminFooter {
+    padding: 5px;
+  }
+
+  #namedisplay {
+    padding: 15px;
+  }
+  #mainData {
+    padding: 25px;
+  }
+  #mainLeftMenu {
+    width: 25%;
+  }
+  #mainRightData {
+    width: 75%;
+  }
+  .outlet {
+    padding: 25px;
+  }
+
+} 
+
+  @media(min-width:320px) and (max-width: 767px) {
+    #logo {
+      color: brown;
+      width: 30%;
+    }
+    .navbar-collapse {
+      background-color: rgb(91, 121, 121);
+    }
+    .mr-auto {
+      margin-left: 40%;
+      color: white;
+      font-size: 16px;
+    }
+    .nav-link {
+      color: #ebebeb;
+    }
+    .ml-auto {
+      font-size: 16px;
+      margin-left: 40%;
+    }
+    #datacom {
+      display: grid;
+      grid-template-columns: 1fr;
+      text-align: center;
+    }
+    #search input {
+      width: 60%;
+    }
+    #footer {
+      text-align: center;
+      height: 20px;
+      background-color: rgba(59, 52, 52, 0.705);
+      padding: 5px;
+    }
+    #section05 {
+      width: 100%;
+      height: 200px;
+      margin-top: 20px;
+    }
+    #section05 .test {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .section5 .footer-container {
+      display: grid;
+      grid-template-columns: 1fr ;
+      padding-left: 30px;
+      padding-top: 40px;
+      text-align: center;
+  }
+  
+.text span{
+  font-size: 20px;
+}
+.text {
+  padding: 0px;
+}
+
+
+.mb-3{
+  width: 70%;
+}
+#login{
+  padding-left: 3%;
+}
+#footer{
+  height: 20%;
+}
+
+
+#adminHeader {
+  padding: 10px;
+}
+#adminHeader h1 {
+  font-size: 18px;
+}
+#adminData {
+  padding: 10px;
+}
+#adminFooter {
+  padding: 5px;
+  position: relative;
+}
+#adminFooter a {
+  font-size: 14px;
+}
+
+#namedisplay {
+    padding: 10px;
+    font-size: 16px;
+  }
+  #mainData {
+    padding: 15px;
+    flex-direction: column;
+  }
+  #mainLeftMenu {
+    width: 100%;
+    padding: 15px;
+  }
+  #mainLeftMenu a {
+    padding: 10px;
+  }
+  #mainRightData {
+    width: 100%;
+    padding: 15px;
+  }
+  .outlet {
+    padding: 15px;
+  }
+  }
