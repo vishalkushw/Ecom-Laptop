@@ -79,7 +79,7 @@
   #adminHeader {
     width: 100%;
     padding: 20px;
-    background-color: rgba(108, 209, 223, 0.418);
+    background-color: rgba(107, 209, 223, 0.418);
     text-align: center;
   }
 
@@ -97,9 +97,6 @@
   .logout-button:hover {
     background-color: #3e8e41;
   }
-  
-  
-  
   
   
   #adminFooter {
